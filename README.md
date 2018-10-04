@@ -45,7 +45,7 @@ Pipenv automatically creates and manages a virtualenv for your projects
 
 change your directory to project directory
 ```
-> cd CODING_CHALLENGE/tests \n
+> cd CODING_CHALLENGE/tests 
 ```
 Export your modules to the python path
 ```
